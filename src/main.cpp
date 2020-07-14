@@ -19,7 +19,7 @@ const double eps = 1e-9 ;
 
 int _3102_{
 	Gamed
-    
+	cout << "Hello World" << endl ;     
     return 0;
 }
  
